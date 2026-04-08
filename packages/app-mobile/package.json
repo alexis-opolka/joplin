@@ -34,7 +34,7 @@
     "crypto-browserify": "3.12.0",
     "events": "3.3.0",
     "jsc-android": "241213.1.0",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "md5": "2.3.0",
     "prop-types": "15.8.1",
     "punycode": "2.2.2",
